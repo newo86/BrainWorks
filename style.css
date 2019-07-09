@@ -1,0 +1,24 @@
+#logo{
+    padding-top: 65px;
+}
+
+
+#text{
+    padding-top: 25px;
+    color:#525a6a;
+    padding-left:20px;
+}
+
+#about{
+    padding-top: 100px;
+}
+
+#log{
+    padding-top:40px;
+}
+
+#redBrain{
+    max-width:100%;
+    height:auto;
+    background-color: red;
+}
